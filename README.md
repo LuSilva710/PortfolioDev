@@ -1,5 +1,5 @@
 <h1 align="center"><b>Portfólio  </b></h1>
-
+<h1 align="center"><img src="./assets/portfólio.png"></h1>
 <h1 >📚  Sobre</h1>
 <p> Este é o meu portfólio de desenvolvedora, onde apresento alguns dos meus projetos e habilidades em programação.</p>
 <br>
