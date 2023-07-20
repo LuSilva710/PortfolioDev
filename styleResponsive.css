@@ -90,9 +90,9 @@
   }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 545px) {
   html {
-      font-size: 45%;
+      font-size: 40%;
   }
   .home-content {
     display: flex;
